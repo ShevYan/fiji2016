@@ -35,11 +35,11 @@
 
 * Nadi
 亮点: 机场的地方, 海滩不错
-[!Alt Nadi](/files/nadi.png)
+![Alt Nadi](/files/nadi.png)
 
 * 沉睡巨人花园
 亮点: 植物
-[!Alt 沉睡巨人花园](/files/garden.png)
+![Alt 沉睡巨人花园](/files/garden.png)
 
 * Naviti
 亮点: 最大的岛屿, 浮潜, 登高; 离酒店比较远
@@ -48,7 +48,7 @@
 * 贝卡环礁
 亮点: 潜水, 海洋生物, 原著名部落
 ![Alt 贝卡环礁](/files/beqa.png)
-![Alt fiji](/files/fiji-1.png)
+
 ## 2 行程
 * 去程: 成都(2-27 8:15) -- 香港(2-27 11:00, 停留几个小时) -- [楠迪国际机场](http://baike.baidu.com/link?url=1N7fzqDGXTrSIUOwgTOu3yAJPwKB9Kch5MGjVsS2T3SmcK1u0ib4mG17cfo5KavMl9YWIn8jUOi3yVIYR5dTQq)(2-28 07:05 +1) 历时(19小时)
 * 返程: 楠迪国际机场(3-5 08:20) -- 香港(3-5 19:00) -- 成都(3-5 22:00)
@@ -89,15 +89,14 @@ nadi机场:00679-6722191
 现金：建议women换300-400美金 ，我们大概换了300美金，其实用不到太多，一般在机场购物都可以刷卡，只有在岛上给小费或结饮料等才会用到现金。
 谨记：斐济是不允许水果、肉一类的东西入境的，托运行李也不可以！
 其余物品：药品（拉肚子药、过敏药、晒伤药、眼药水等）
-
-浮潜设备
-使馆网站:http://www.fijiembassy.org.cn/
 打印电子机票多份
-http://www.mafengwo.cn/i/3168019.html
-http://www.lvmama.com/trip/show/61624
+浮潜设备
 零食
 清蒸椰子蟹,东星斑
 水上滑伞,摩托艇,丛林滑索
+
+http://www.mafengwo.cn/i/3168019.html
+http://www.lvmama.com/trip/show/61624
 http://www.lvmama.com/trip/show/43341
 
 
