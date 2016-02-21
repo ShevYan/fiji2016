@@ -18,6 +18,11 @@
 
 ![Alt fiji](/files/all-map.png)
 
+* 景点地图
+
+
+![Alt fiji](/files/senic-ports.png)
+
 * Nadi国际机场
 
 
